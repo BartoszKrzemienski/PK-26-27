@@ -10,3 +10,15 @@ build/
 # Pliki systemowe
 .DS_Store
 Thumbs.db
+
+
+
+
+Zadanie 4: Średnia ocen
+Napisz program, który za pomocą pętli while wczytuje oceny ucznia (od 1 do 6).
+
+Pętla przerywa działanie, gdy użytkownik wpisze liczbę -1.
+
+Program zlicza sumę ocen oraz ich ilość, a na końcu oblicza i wyświetla średnią ocen (użyj typu double dla średniej).
+
+Przykład:
